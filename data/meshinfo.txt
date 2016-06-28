@@ -1,0 +1,6 @@
+# skydome
+mesh: data/objects/skydome/skyDomeModel.obj
+
+# hovercar
+mesh: data/objects/hovercar/hovercar.obj
+mtl: data/objects/hovercar/hovercar.mtl

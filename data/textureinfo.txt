@@ -1,0 +1,11 @@
+# terrainGrass
+d data/textures/terrain/grassD.tga
+n data/textures/terrain/grassN.tga
+
+# terrainRock
+d data/textures/terrain/rockD.tga
+n data/textures/terrain/rockN.tga
+
+# terrainSlope
+d data/textures/terrain/slopeD.tga
+n data/textures/terrain/slopeN.tga
